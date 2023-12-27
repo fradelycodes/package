@@ -6,6 +6,7 @@ const Home = ({ dark }) => {
           <div className="details">
             <div className="short">
               <h3>
+                {/*using img tag instead Image component by next */}
                 John Smith <img className="svg" src="img/svg/hi.svg" alt="" />
               </h3>
               <span className="job">Visual Designer</span>
@@ -57,6 +58,8 @@ const Home = ({ dark }) => {
           </ul>
         </div>
       </div>
+           {/*using img tag instead Image component by next */}
+           
       <div className="orido_tm_down">
         <a className="anchor" href="#about">
           <img

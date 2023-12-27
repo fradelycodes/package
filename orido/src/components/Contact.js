@@ -1,3 +1,4 @@
+{/* Because everybody needed to know that ORIDO MADE THIS */}
 const Contact = () => {
   return (
     <div className="orido_tm_section" id="contact">

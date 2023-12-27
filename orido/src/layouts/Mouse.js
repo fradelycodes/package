@@ -1,4 +1,5 @@
 import { Fragment, useEffect } from "react";
+// causing callback issues
 import { customCursor } from "../utilits";
 const Mouse = () => {
   useEffect(() => {
